@@ -2,3 +2,5 @@
 .dvc/config.local
 .dvc/tmp
 .dvc/cache
+*.json
+/models
