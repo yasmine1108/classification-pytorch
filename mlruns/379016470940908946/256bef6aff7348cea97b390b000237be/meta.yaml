@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/379016470940908946/256bef6aff7348cea97b390b000237be/artifacts
+end_time: 1764879618328
+entry_point_name: ''
+experiment_id: '379016470940908946'
+lifecycle_stage: active
+run_id: 256bef6aff7348cea97b390b000237be
+run_name: rare-tern-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764879617940
+status: 3
+tags: []
+user_id: yasmine

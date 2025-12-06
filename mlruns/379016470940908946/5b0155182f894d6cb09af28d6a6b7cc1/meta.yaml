@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/379016470940908946/5b0155182f894d6cb09af28d6a6b7cc1/artifacts
+end_time: 1764880246192
+entry_point_name: ''
+experiment_id: '379016470940908946'
+lifecycle_stage: active
+run_id: 5b0155182f894d6cb09af28d6a6b7cc1
+run_name: enchanting-panda-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764880245874
+status: 3
+tags: []
+user_id: yasmine

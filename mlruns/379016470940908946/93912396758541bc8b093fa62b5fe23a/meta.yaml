@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/379016470940908946/93912396758541bc8b093fa62b5fe23a/artifacts
+end_time: 1764880652556
+entry_point_name: ''
+experiment_id: '379016470940908946'
+lifecycle_stage: active
+run_id: 93912396758541bc8b093fa62b5fe23a
+run_name: selective-bird-928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764880286580
+status: 3
+tags: []
+user_id: yasmine

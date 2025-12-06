@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/379016470940908946
+creation_time: 1764879617648
+experiment_id: '379016470940908946'
+last_update_time: 1764879617648
+lifecycle_stage: active
+name: pytorch-classification
